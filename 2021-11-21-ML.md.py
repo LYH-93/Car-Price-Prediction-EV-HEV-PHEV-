@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  7 10:34:46 2021
 
-@author: 피파허접
-"""
 import pandas as pd 
 import os 
 import matplotlib.pyplot as plt # 별칭 \
